@@ -3,12 +3,20 @@
     "displayName": "Web Development Essentials Pack",
     "description": "Web Development Essentials Pack for Visual Studio Code",
     "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "JillMNolan",
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    
+    "repository": {
+       "type": "git", 
+       "url": "https://github.com/jillmnolan/web-development-essentials-pack"
+    },
+    
     "extensionPack": [ 
         "aaron-bond.better-comments", 
         "Angular.ng-template", 
