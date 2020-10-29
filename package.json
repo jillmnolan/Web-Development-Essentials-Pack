@@ -1,0 +1,50 @@
+{
+    "name": "web-development-essentials-pack",
+    "displayName": "Web Development Essentials Pack",
+    "description": "Web Development Essentials Pack for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "Angular.ng-template", 
+        "ChakrounAnas.turbo-console-log", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "DavidAnson.vscode-markdownlint", 
+        "dbaeumer.vscode-eslint", 
+        "deerawan.vscode-faker", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-complete-tag", 
+        "formulahendry.auto-rename-tag", 
+        "humao.rest-client", 
+        "johnpapa.angular-essentials", 
+        "johnpapa.Angular2", 
+        "johnpapa.vscode-peacock", 
+        "johnpapa.winteriscoming", 
+        "msjsdiag.debugger-for-chrome", 
+        "msjsdiag.debugger-for-edge", 
+        "naumovs.color-highlight", 
+        "nrwl.angular-console", 
+        "octref.vetur", 
+        "oderwat.indent-rainbow", 
+        "PKief.material-icon-theme", 
+        "pranaygp.vscode-css-peek", 
+        "ritwickdey.live-sass", 
+        "ritwickdey.LiveServer", 
+        "streetsidesoftware.code-spell-checker", 
+        "techer.open-in-browser", 
+        "xabikos.JavaScriptSnippets", 
+        "yzhang.markdown-all-in-one", 
+        "Zignd.html-css-class-completion"
+    ]
+}
