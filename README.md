@@ -10,7 +10,56 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 ### Recommended Theme for Web Development
 
+* [**Community Material Theme**](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+
+* [**Material Theme Icon**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 ### Recommended Extensions for Web Development
+
+* [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+
+* [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+* [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+### Language Support
+
+#### CSS/Bootstrap/SCSS/Mocha
+
+* [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
+* [**Sass/Less/Scss/Typescript/Javascript/Jade/Pug Compile Hero Pro**](https://marketplace.visualstudio.com/items?itemName=Wscats.eno)
+
+#### JavaScript
+
+* [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+
+* [**ES6 Mocha Snippets**](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
+
+* [**Node.js Extension Pack**](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
+
+  * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+  * [**JavaScript (ES6) Code Snippets**](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+  * [**NPM**](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+  * [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+  * [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+  * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+
+#### TypeScript
+
+* [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
+#### Markdown
+
+* [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+* [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
 
 **_Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack_. :)**
 
@@ -56,7 +105,7 @@ Thank you for all the developers that built these above referenced extensions.  
 
 * [**PHP Development Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.php-development-essentials): A Visual Studio Code extension pack that serves as the comprehensive version of Web Development Essentials pack, which, unlike Web Development Essentials, does not have Angular or React extensions.
 
-* [**Python Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.python-essentials): 
+* [**Python Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.python-essentials): A Visual Studio Code extension pack for Python development.
 
 * [**Web Development Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.web-development-essentials-pack): his Visual Studio Code Extension Pack is what you are currently seeing. :)
 
